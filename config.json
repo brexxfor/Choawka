@@ -1,24 +1,27 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "ukku923@gmail.com",
+		"password": "sahin111",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
 		"userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
-		"intervalGetNewCookie": 1440,
+		"intervalGetNewCookie": null,
 		"notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
 	},
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
+	"nickNameBot": "𝗭𝗘𝗡𝗫 𝗖",
 	"prefix": "-",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [
+		"61566533590967",
+		""
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -40,15 +43,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "lethanhloc07072004@gmail.com",
+			"clientId": "209249657603-0elp2dtgpopn6n9atu8v7qp3u803rii4.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04Eu9a0lNqVi7CgYIARAAGAQSNwF-L9IrJZcFQMzVfxnnozKuERegqDmJjw6x0aWnWrn_uQyMC9PQawGPUR-j_-OOU44xFTMXtYM",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LcBtYkpAAAAAI_jrd855axMJXsx8lfy-NlVg-Q9",
+			"secretKey": "6LcBtYkpAAAAAHb4BHjrie_gO111g_u3hprT5YQn"
 		}
 	},
 	"dashBoard": {
